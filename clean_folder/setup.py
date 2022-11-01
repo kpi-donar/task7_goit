@@ -4,7 +4,7 @@ setup(
     name='clean_folder',
     version='1',
     description='To order your Forder',
-    url='http://github.com/dummy_user/useful',
+    url='https://github.com/kpi-donar/task7_goit.git',
     author='DAM',
     author_email='dam@example.com',
     license='MIT',
